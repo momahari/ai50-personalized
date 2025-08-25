@@ -1,0 +1,2 @@
+## Minesweeper AI 
+ This project implements an AI agent that plays Minesweeper using propositional logic and knowledge-based inference. The agent builds a dynamic knowledge base from revealed cells, deduces safe moves and mine locations, and updates its strategy in real time. It showcases logical reasoning, constraint satisfaction, and decision-making under uncertainty — all wrapped in a classic puzzle game.
